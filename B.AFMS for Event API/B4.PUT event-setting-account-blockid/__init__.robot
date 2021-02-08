@@ -1,0 +1,4 @@
+*** Settings ***
+Suite Setup
+
+*** Variables ***

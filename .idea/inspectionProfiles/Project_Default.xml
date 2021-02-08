@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EmptyEventHandler" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="问题" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="RobotGherkinInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RobotImportNotFound" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RobotImportNotUsed" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RobotKeywordDefinitionStartingWithGherkin" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RobotNestedVariable" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RobotNestedVariableDefinition" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
